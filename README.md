@@ -5,4 +5,4 @@ Guest Lecture by Andreas Küpfer (Technical University of Darmstadt) @ National 
 
 
 
-**Questions or Feedback?** Contact me via [Mail](andreas.kuepfer@tu-darmstadt.de), [Twitter](https://twitter.com/ankuepfer) or visit my [Website](andreaskuepfer.github.io).
+**Questions or Feedback?** Contact me via [Mail](andreas.kuepfer@tu-darmstadt.de), [Twitter](https://twitter.com/ankuepfer) or visit my [Website](https://andreaskuepfer.github.io).
